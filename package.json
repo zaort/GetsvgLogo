@@ -1,0 +1,19 @@
+{
+ "name": "getsvglogo",
+ "version": "1.0.0",
+ "description": "A svg logo generator, provide 3 characters, color, shape (circle, triangle, and square) and shape color to create your logo.",
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js",
+  "test": "jest"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "MIT",
+ "dependencies": {
+  "inquirer": "^8.2.4"
+ },
+ "devDependencies": {
+  "jest": "^28.1.3"
+ }
+}
