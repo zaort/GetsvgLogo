@@ -26,7 +26,7 @@ To use the SVG Logo Maker application, follow these steps:
 
 ## Walkthrough Video
 
-[- Walkthrough video link](https://drive.google.com/file/d/1nV1p-LXJ98CEnfs8h4rxPhT5_JDdxxam/view)
+[- Walkthrough video link](https://drive.google.com/file/d/1bx7GLht9Gyn8lEYgzWVjDpOlZ3uRwfxf/view)
 
 ## Usage
 
